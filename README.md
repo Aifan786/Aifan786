@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/portfolio-responsive-complete/index.html/](https://aifan786.github.io/AifanPortfolio/)
+- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/portfolio-responsive-complete/index.html/]([https://aifan786.github.io/AifanPortfolio](http://127.0.0.1:5500/portfolio-responsive-complete/index.html)/)
 
 - 📫 How to reach me **aifanislam50@gmail.com**
 
