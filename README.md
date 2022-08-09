@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://aifan786.github.io/AifanPortfolio/](https://aifan786.github.io/AifanPortfolio/)
+- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/portfolio-responsive-complete/index.html/](https://aifan786.github.io/AifanPortfolio/)
 
 - 📫 How to reach me **aifanislam50@gmail.com**
 
@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aifanul-islam-364592235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aifanul-islam-364592235" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aifanul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aifanul islam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/certificates/e1da31413908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/certificates/e1da31413908" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCYji6v1EurG_WGvgK5y0HYg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aifanul islam" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/certificates/e1da31413908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/certificates/e1da31413908" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
