@@ -1,4 +1,5 @@
-<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=000000&amp;size=40&amp;lines=Hey!+👋+It's+Aifanul+Islam!;Java+Backend+Development...;" style="max-width: 100%; margin-left: 50%">
+<br/><h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=000000&amp;size=30&amp;lines=Hey!+👋+It's+Aifanul+Islam!;Java+Backend+Development...;" style="max-width: 100%; margin-left: 50%">
+     </h3>
 <br/>
 
 <img align="right" alt="Coding" width="900" height="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
