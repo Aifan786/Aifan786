@@ -1,6 +1,6 @@
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=000000&amp;size=30&amp;lines=Hey!+👋+It's+Aifanul+Islam!;Java+Backend+Developer...;" style="max-width: 100%;">
 </h3>
-<img align="right" alt="Coding" width="900" height="500" margin-left="10%" src="https://i.pinimg.com/originals/18/61/b6/1861b66e9866ba9a69c871da37ab8203.gif">
+<img align="right" alt="Coding" width="900" height="500" margin-left="10%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aifan786&label=Profile%20views&color=0e75b6&style=flat" alt="aifan786" /> </p>
 
