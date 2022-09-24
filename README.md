@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aifanislam50@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16heQknLTd0u3Jc5v2Tk1BSjp6lvksohQ/view](https://drive.google.com/file/d/16heQknLTd0u3Jc5v2Tk1BSjp6lvksohQ/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16heQknLTd0u3Jc5v2Tk1BSjp6lvksohQ/view?usp=sharing](https://drive.google.com/file/d/16heQknLTd0u3Jc5v2Tk1BSjp6lvksohQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
