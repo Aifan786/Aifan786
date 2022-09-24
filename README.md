@@ -1,5 +1,5 @@
 <h1 align="center">Hii <img style=" height: 30px;" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" alt=""> I am Aifanul Islam</h1>
-<img align="right" alt="Coding" width="900" height="500" margin-left="10%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="900" height="500" margin-left="10% margin-top="-5%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aifan786&label=Profile%20views&color=0e75b6&style=flat" alt="aifan786" /> </p>
 
